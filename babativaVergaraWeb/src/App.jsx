@@ -12,6 +12,7 @@ import AdminCobro from './components/Servicess/components/descServices/AdminCobr
 import PrevResolucion from './components/Servicess/components/descServices/PrevResolucion'
 import Superinten from './components/Servicess/components/descServices/Superinten'
 import DerechoAdmin from './components/Servicess/components/descServices/DerechoAdmin'
+import Footer from './components/Footer/Footer'
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
         <Route path="Superintenl" element={<Superinten/>}/>
         <Route path="DerechoAdmin" element={<DerechoAdmin/>}/>
     </Routes>
+    <footer> <Footer/></footer>
     </div>
   )
 }

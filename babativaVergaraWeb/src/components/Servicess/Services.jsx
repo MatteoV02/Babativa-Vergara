@@ -3,6 +3,7 @@ import CtmIntro from './components/CtmIntro.jsx'
 import CtmRef from './components/CtmRef.jsx'
 import SrvIntro from './components/SrvIntro.jsx'
 import SrvAreas from './components/SrvAreas.jsx'
+import "./components/Customers.css"
 
 function Services() {
   return (

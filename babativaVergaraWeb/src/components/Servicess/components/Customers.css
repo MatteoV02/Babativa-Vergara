@@ -6,6 +6,14 @@
     padding: 20px;
     text-align: center;
   }
+  .Cus-title{
+    font-size: 4rem;
+    font-family: "Libre Caslon";
+    background-color: rgba(62, 92, 148, 0.8);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+  }
   
   /* Styling for the title section */
   .ctm-title {
